@@ -5,21 +5,16 @@ layout: post
 icon: fa-chalkboard-teacher
 ---
 
-# Physics-informed machine learning: Blending data and physics for fast predictions
+### Physics-informed machine learning: Blending data and physics for fast predictions
 
-Despite great progress in simulating multiphysics problems using the numerical
-discretization of partial differential equations (PDEs), one still cannot seamlessly incorporate noisy
-data into existing algorithms, mesh generation remains complex, and high- dimensional problems
-governed by parameterized PDEs cannot be tackled. Moreover, solving inverse problems with
-hidden physics is often prohibitively expensive and requires different formulations and elaborate
-computer codes. Machine learning has emerged as a promising alternative, but training deep neural
-networks requires big data, not always available for scientific problems. Instead, such networks can
-be trained from additional information obtained by enforcing the physical laws (for example, at
-random points in the continuous space- time domain). Such physics- informed learning integrates
-(noisy) data and mathematical models, and implements them through neural networks or other
-kernel- based regression networks. Moreover, it may be possible to design specialized network
-architectures that automatically satisfy some of the physical invariants for better accuracy, faster
-training and improved generalization. Here, we review some of the prevailing trends in embedding
-physics into machine learning, present some of the current capabilities and limitations and discuss
-diverse applications of physics- informed learning both for forward and inverse problems, including
-discovering hidden physics and tackling high-dimensional problems.
+Wednesday November 9, 2022, 12:00-13:00  
+[DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), building B303A Auditorium 43
+
+#### Bio
+
+George Karniadakis is from Crete. He is a member of the National Academy of Engineering and a Vannevar Bush Faculty Fellow. He received his S.M. and Ph.D. from Massachusetts Institute of Technology (1984/87). He was appointed Lecturer in the Department of Mechanical Engineering at MIT and subsequently he joined the Center for Turbulence Research at Stanford / Nasa Ames. He joined Princeton University as Assistant Professor in the Department of Mechanical and Aerospace Engineering and as Associate Faculty in the Program of Applied and Computational Mathematics. He was a Visiting Professor at Caltech in 1993 in the Aeronautics Department and joined Brown University as Associate Professor of Applied Mathematics in the Center for Fluid Mechanics in 1994. After becoming a full professor in 1996, he continued to be a Visiting Professor and Senior Lecturer of Ocean/Mechanical Engineering at MIT. He is an AAAS Fellow (2018-), Fellow of the Society for Industrial and Applied Mathematics (SIAM, 2010-), Fellow of the American Physical Society (APS, 2004-), Fellow of the American Society of Mechanical Engineers (ASME, 2003-) and Associate Fellow of the American Institute of Aeronautics and Astronautics (AIAA, 2006-). He received the SIAM/ACM Prize on Computational Science & Engineering (2021), the Alexander von Humboldt award in 2017, the SIAM Ralf E Kleinman award (2015), the J. Tinsley Oden Medal (2013), and the CFD award (2007) by the US Association in Computational Mechanics. His h-index is 123 and he has been cited about 72,000 times.
+
+#### Abstract
+
+Despite great progress in simulating multiphysics problems using the numerical discretization of partial differential equations (PDEs), one still cannot seamlessly incorporate noisy data into existing algorithms, mesh generation remains complex, and high- dimensional problems governed by parameterized PDEs cannot be tackled. Moreover, solving inverse problems with hidden physics is often prohibitively expensive and requires different formulations and elaborate computer codes. Machine learning has emerged as a promising alternative, but training deep neural networks requires big data, not always available for scientific problems. Instead, such networks can be trained from additional information obtained by enforcing the physical laws (for example, at random points in the continuous space-time domain). Such physics-informed learning integrates (noisy) data and mathematical models, and implements them through neural networks or other kernel-based regression networks. Moreover, it may be possible to design specialized network architectures that automatically satisfy some of the physical invariants for better accuracy, faster training and improved generalization. Here, we review some of the prevailing trends in embedding physics into machine learning, present some of the current capabilities and limitations and discuss diverse applications of physics-informed learning both for forward and inverse problems, including discovering hidden physics and tackling high-dimensional problems.
+
