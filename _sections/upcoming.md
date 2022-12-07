@@ -9,7 +9,7 @@ order: 3
 #### GitHub Copilot and techniques for improving code suggestions from large language models
 
 Date: January 12, 2023   
-Time: 12:00–13:00   
+Time: 12:00–12:55   
 Location: [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus) (TBA)  
 
 #### Bio
@@ -28,6 +28,6 @@ TBD
 #### Title: TBA
 
 Date: February 1, 2023   
-Time: 12:00–13:00   
+Time: 12:00–12:55   
 Location: [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus) (TBA)  
 

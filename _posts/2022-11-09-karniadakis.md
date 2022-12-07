@@ -7,7 +7,7 @@ icon: fa-chalkboard-teacher
 
 ### Physics-informed machine learning: Blending data and physics for fast predictions
 
-Wednesday November 9, 2022, 12:00-13:00  
+Wednesday November 9, 2022, 12:00-12:55  
 [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), building B303A Auditorium 43
 
 #### Bio
