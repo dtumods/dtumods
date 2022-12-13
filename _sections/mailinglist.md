@@ -4,7 +4,7 @@ icon: fa-envelope
 order: 4
 ---
 
-If you would like to receive information about upcoming seminars, you can subscribe to our mailing list by signing up below. We do not share your information with any third parties, and you can unsubscribe at any time by clicking the link in the footer of our emails.
+If you would like to receive information about upcoming seminars, you can subscribe to our mailing list by signing up below. We do not share your information with any third parties, and you can unsubscribe at any time by clicking the link in the footer of our emails or by clicking <a href="https://github.us21.list-manage.com/unsubscribe?u=a2c8b921c441aeb2fb3ce8094&id=68dc01c519">here.</a>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
