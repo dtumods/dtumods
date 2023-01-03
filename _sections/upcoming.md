@@ -10,7 +10,7 @@ order: 3
 
 Date: January 12, 2023   
 Time: 12:00–12:55   
-Location: [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus) (TBA)  
+Location: Building 303A Auditorium 43, [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus)
 
 #### Bio
 
@@ -32,5 +32,5 @@ In this talk I will discuss a number of techniques that we have explored for mak
 
 Date: February 1, 2023   
 Time: 12:00–12:55   
-Location: [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus) (TBA)  
+Location: Building 303A Auditorium 43, [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus) 
 

@@ -11,4 +11,4 @@ The Mathematics of Data Science Seminar Series is hosted by [DTU Compute](https:
 - application areas (e.g., solution of a practical data science problem), and
 - current problems and open challenges. 
 
-The seminar series is sponsored by the [Danish Data Science Academy](https://ddsa.dk).
+The seminar series is supported by the [Danish Data Science Academy](https://ddsa.dk).
