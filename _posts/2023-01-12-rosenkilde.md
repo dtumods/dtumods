@@ -19,8 +19,3 @@ In this talk I will discuss a number of techniques that we have explored for mak
 #### About the speaker
 
 Johan Rosenkilde is a research engineer at GitHub Next, a small team within GitHub that explores the future of software development. He co-created GitHub Copilot, which is the leading ML-powered tool for providing code suggestion directly in the developer's IDE. Until 2021, he was an Associate Professor at DTU specialising in computational algebra and error-correcting codes. He holds an MSc in software technology and a PhD in mathematics, both from DTU.
-
-
-
-Thursday January 12, 2023, 12:00-12:55   
-[DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), building B303A Auditorium 43
