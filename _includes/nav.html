@@ -38,7 +38,11 @@
     {%- if _pages[0] and _sections[0] -%}<hr>{%- endif -%}
     {%- unless _sections == null -%}
       {%- for _sect in _sections -%}
-        {%- assign _title = _sect.title | default: _sect.layout | default: 'Untitled' -%}
+        {%- if _sect.speaker == null -%}
+          {%- assign _title = _sect.title | default: _sect.layout | default: 'Untitled' -%}
+        {%- else -%}
+          {%- assign _title = _sect.speaker | default: _sect.layout | default: 'Untitled' -%}
+        {%- endif -%}
         {%- assign _slug = _title | slugify -%}
         {%- assign _icon = _sect.icon | default: 'fa-file' -%}
         {%- if _sect.icon-style == 'regular' -%}

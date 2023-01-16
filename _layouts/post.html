@@ -10,9 +10,14 @@ layout: default
 	  <div class="container">
 			<header>
 				<h2>{{- page.title -}}</h2>
-				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
+				<p>{% if page.speaker %}{{ page.speaker }}, {% endif %}{% if page.affiliation %}{{ page.affiliation }}{% endif %}<br />
+				{{- page.date | date_to_long_string -}}</p>
+				{% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.author %}{% endif %}
+				<h3>{{- page.subtitle -}}</h3>
 			</header>
-	    {{- content -}}
-	  </div>
+	    {{- content -}}				
+
+		{% if page.youtube %}{% include youtube.html uri=page.youtube %}{% endif %}
+	</div>
 	</article>
 </div>
