@@ -9,7 +9,7 @@ order: 3
 #### Reduced Order Modelling in Computational Mechanics: state of the art, challenges and applications
 
 Date: March 7, 2023   
-Time: 12:00–12:55   
+Time: 10:30-12:00
 Location: Building 303A Aud. 44, [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), [Google Maps](https://goo.gl/maps/3y2yCAkG5wcdJFcc6)
 
 
