@@ -10,7 +10,7 @@ order: 3
 
 Date: March 7, 2023   
 Time: 10:30-11:30
-Location: Building 341 Aud. 23, [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), [Google Maps](https://goo.gl/maps/3y2yCAkG5wcdJFcc6)
+Location: Building 341 Aud. 23, [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), [Google Maps](https://goo.gl/maps/f1z2aDhkVyEUSLSR6)
 
 
 #### Abstract
