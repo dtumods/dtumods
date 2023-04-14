@@ -8,7 +8,7 @@ order: 3
 
 #### Stochastic morphometry and sampling of conditioned stochastic shape processes
 
-Date: May 10, 2023   
+Date: May 11, 2023   
 Time: 12:00-12:55   
 Location: TBA
 
