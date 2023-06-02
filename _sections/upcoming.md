@@ -10,7 +10,7 @@ order: 3
 
 Date: June 16, 2023   
 Time: 12:00-12:50   
-Location: TBA, [DTU Lyngby Campus](https://www.dtu.dk/english/about/cam
+Location: Building 303A Aud. 41, [DTU Lyngby Campus](https://www.dtu.dk/english/about/cam
 puses/dtu-lyngby-campus), [Google Maps](https://goo.gl/maps/3y2yCAkG5wcdJFcc6)
 
 #### Abstract
