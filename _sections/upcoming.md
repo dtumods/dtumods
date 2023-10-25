@@ -15,7 +15,7 @@ Location: Building 303A Aud. 43, [DTU Lyngby Campus](https://www.dtu.dk/english/
 #### Abstract
 
 Estimating the latent state of a dynamical system based on 
-noisy observations is common challenge underlying many tasks in 
+noisy observations is a common challenge underlying many tasks in 
 engineering, robotics, or weather modeling. We will discuss two 
 perspectives of state estimation: temporal inference and spatial 
 inference. In this talk, I will provide a machine learning perspective 
