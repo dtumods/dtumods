@@ -45,4 +45,4 @@ In this talk, I will give an overview of common learned model-based approach in 
 
 #### About the speaker
 
-Andreas Hauptmann is a computational mathematician interested in inverse problems and medical imaging, with expertise in tomographic reconstructions and image processing. His work is concentrated on combining analytical and data driven methods for industrial and medical applications.
+[Andreas Hauptmann](https://www.oulu.fi/en/researchers/andreas-hauptmann) is a computational mathematician interested in inverse problems and medical imaging, with expertise in tomographic reconstructions and image processing. His work is concentrated on combining analytical and data driven methods for industrial and medical applications.
