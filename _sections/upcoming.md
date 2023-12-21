@@ -4,4 +4,15 @@ icon: fa-calendar
 order: 3
 ---
 
+### Peter Søndergaard (3shape)
+
+#### Title: TBA
+
+Date: January 11, 2024   
+Time: 12:00-12:50   
+Location: TBA   
+Stream: [Zoom](https://dtumods.github.io/zoom)   
+
+#### Abstract 
+
 TBA
