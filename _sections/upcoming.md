@@ -8,8 +8,8 @@ order: 3
 
 #### Title: TBA
 
-Date: January 11, 2024   
-Time: 12:00-12:50   
+Date: TBA
+Time: TBA
 Location: TBA   
 Stream: [Zoom](https://dtumods.github.io/zoom)   
 
