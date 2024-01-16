@@ -7,7 +7,7 @@ order: 3
 
 ### Dirk Hartmann (Siemens) 
 
-#### Title: Executable Digital Twins — Reimagining industrial operations through Mathematics and Scientific Machine Learning
+#### Executable Digital Twins<br>*Reimagining industrial operations through Mathematics and Scientific Machine Learning*
 
 Date: February 6, 2024   
 Time: 12:00-12:50   
@@ -34,9 +34,9 @@ In his career, Dirk took several leading roles in research, innovation, and deve
 
 #### Title: TBA
 
-Date: TBA
-Time: TBA
-Location: TBA   
+Date: TBA    
+Time: TBA    
+Location: TBA    
 Stream: [Zoom](https://dtumods.github.io/zoom)   
 
 #### Abstract 
