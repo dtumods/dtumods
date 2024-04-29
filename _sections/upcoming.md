@@ -7,17 +7,22 @@ order: 3
 
 ### Jan S. Hesthaven (EPFL)
 
-#### Title: TBA
+#### Title: Enabling digital twins through modeling, data, and learning — a few examples
+
 
 Date: May 17, 2024    
-Time: 12:00-12:50    
+Time: 9:00-10:00    
 Location: TBA    
 Stream: [Zoom](https://dtumods.github.io/zoom)   
 
-
 #### Abstract
 
-TBA
+The ability to build efficient physics-based surrogate models with predictive accuracy is an old dream, in particular for complex engineering systems. However, realizing this remains a challenge due to the need to combine advanced computational modeling, reduced complexity models and external data for calibration, updating and uncertainty management. Nevertheless, the perspectives of using such models, often referred to as digital twins, for design, predictive maintenance, operational optimization, and risk analysis are substantial and the potential for impact significant, from safety, planning, and financial points of view. 
+In this talk we shall first discuss the importance of efficient and accurate reduced models as a key element in the development of such models for complex systems. This provides a path to generate data which can subsequently be combined with various modern learning techniques to arrive at physics-based models with predictive value and, ultimately, provide decision support.
+We shall illustrate this through a number of examples which combine computational first principle models with reduced order models and data driven technologies, e.g., classifiers, Gaussian regression and neural networks, to enable failure analysis, optimal sensor placement, closures for the accurate simulation of drone dynamics and, time permitting, multi-fidelity methods and risk analysis for rare events. 
+These are all elements of the workflow that needs to be realized to address the challenge of building predictive surrogate models –Digitial Twins – for complex applications.
+
+
 
 ### Mehmet Akçakaya (University of Minnesota)
 
