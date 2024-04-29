@@ -11,7 +11,7 @@ order: 3
 
 
 Date: May 17, 2024    
-Time: 9:00-10:00    
+Time: 12:00-12:50    
 Location: TBA    
 Stream: [Zoom](https://dtumods.github.io/zoom)   
 
