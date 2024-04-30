@@ -12,7 +12,7 @@ order: 3
 
 Date: May 17, 2024    
 Time: 12:00-12:50    
-Location: TBA    
+Location: Building 303A Aud. 42, [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), [Google Maps](https://goo.gl/maps/3y2yCAkG5wcdJFcc6)      
 Stream: [Zoom](https://dtumods.github.io/zoom)   
 
 #### Abstract
