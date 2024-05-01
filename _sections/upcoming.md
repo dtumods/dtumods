@@ -23,6 +23,14 @@ We shall illustrate this through a number of examples which combine computationa
 These are all elements of the workflow that needs to be realized to address the challenge of building predictive surrogate models –Digitial Twins – for complex applications.
 
 
+#### About the speaker
+
+After receiving his PhD in 1995 from the Technical University of Denmark, Professor Hesthaven joined Brown University, USA where he became Professor of Applied Mathematics in 2005. In 2013 he joined EPFL as Chair of Computational Mathematics and Simulation Science and from 2017-2020 served as Dean of the School of Basic Sciences. From 2021, he serves as Provost of EPFL.
+
+His research interests focus on the development, analysis, and application of high-order accurate methods for the solution of complex time-dependent problems, described by nonlinear partial differential equations and often requiring high-performance computing.A particular focus of his research has been on the development of computational methods for problems of linear and non-linear wave problems with recent emphasis on reduced order modeling and on combining traditional methods with machine learning and neural networks with broad applications..
+
+He has received several awards for his research and his teaching, and has published 4 monographs and more than 175 research papers. He is an elected member of the Royal Danish Academy of Sciences and Letters, and a Fellow of the American Mathematical Society (AMS) and the Society for Industrial and Applied Mathematics (SIAM).
+
 
 ### Mehmet Akçakaya (University of Minnesota)
 
@@ -44,16 +52,4 @@ In this talk, we will describe recent advances that link these inverse problems 
 Mehmet Akçakaya is a Jim and Sara Anderson Associate Professor of Electrical Engineering at the University of Minnesota. He received the Bachelor's degree with great distinction from McGill University, Montreal, QC; and the S.M. and Ph.D. degrees from Harvard University, Cambridge, MA. He was an Instructor at the Harvard Medical School prior to joining the University of Minnesota. His work on computational imaging and accelerated MRI has received a number of international recognitions and best paper awards. He was the recipient of a Trailblazer Award from NIH and a CAREER Award from NSF. His research interests include computational imaging, machine learning, MRI, inverse problems and image processing.
 
 
-### Peter Søndergaard (3shape)
-
-#### Title: TBA
-
-Date: TBA    
-Time: TBA    
-Location: TBA    
-Stream: [Zoom](https://dtumods.github.io/zoom)   
-
-#### Abstract 
-
-TBA
 
