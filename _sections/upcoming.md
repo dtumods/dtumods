@@ -15,7 +15,7 @@ Stream: [Zoom](https://dtumods.github.io/zoom)
 
 #### Abstract
 
- Lengthy data acquisition remains a major bottleneck in magnetic resonance imaging (MRI), often necessitating tradeoffs in resolution and signal-to-noise ratio. Thus, reconstruction and acquisition techniques for rapid imaging, noise reduction and improved data acquisition have received great interest. Each of these directions correspond to a specific inverse problem with its own distinct forward operator dictated by the underlying imaging physics.
+Lengthy data acquisition remains a major bottleneck in magnetic resonance imaging (MRI), often necessitating tradeoffs in resolution and signal-to-noise ratio. Thus, reconstruction and acquisition techniques for rapid imaging, noise reduction and improved data acquisition have received great interest. Each of these directions correspond to a specific inverse problem with its own distinct forward operator dictated by the underlying imaging physics.
 
 In this talk, we will describe recent advances that link these inverse problems in MRI through the lens of intelligent physics-driven technologies. We will first focus on physics-driven deep learning (DL) methods for accelerated MRI. In this context, we will overview our pioneering work on self-supervised learning strategies for training such reconstruction algorithms when ground-truth data is not available, which is a common problem in MRI. We will also show how these can be extended to a subject-specific zero-shot setting when a training database cannot be curated. We will then explore state-of-the-art methods for denoising MRI series that utilize random matrix theory based approaches. We will discuss how this strategy can be combined with physics-driven DL reconstruction to provide a synergistic improvement. Finally, we will overview emerging developments for improving radiofrequency pulse design with a focus on improving field inhomogeneity at ultrahigh field strengths.
 
@@ -24,16 +24,15 @@ In this talk, we will describe recent advances that link these inverse problems 
 Mehmet Akçakaya is a Jim and Sara Anderson Associate Professor of Electrical Engineering at the University of Minnesota. He received the Bachelor's degree with great distinction from McGill University, Montreal, QC; and the S.M. and Ph.D. degrees from Harvard University, Cambridge, MA. He was an Instructor at the Harvard Medical School prior to joining the University of Minnesota. His work on computational imaging and accelerated MRI has received a number of international recognitions and best paper awards. He was the recipient of a Trailblazer Award from NIH and a CAREER Award from NSF. His research interests include computational imaging, machine learning, MRI, inverse problems and image processing.
 
 
-
-
 ### Desmond Higham (University of Edinburgh)
+
+#### Title: When AI goes Awry
 
 Date: August 21, 2024    
 Time: 12:00-12:50    
 Location: TBA        
 Stream: [Zoom](https://dtumods.github.io/zoom)  
 
-#### Title: When AI goes Awry
 
 #### Abstract
 
