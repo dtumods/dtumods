@@ -10,7 +10,7 @@ order: 3
 
 Date: January 22, 2025  
 Time: 12:00-12:55  
-Location: Building 324 room 060, [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), [Google Maps](https://maps.app.goo.gl/mG3gJs1VUY7mGfdm6)  
+Location: Building 324 room 040, [DTU Lyngby Campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus), [Google Maps](https://maps.app.goo.gl/mG3gJs1VUY7mGfdm6)  
 Stream: [Zoom](https://dtumods.github.io/zoom)
 
 #### Abstract
